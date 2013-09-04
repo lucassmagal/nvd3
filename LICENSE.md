@@ -1,4 +1,3 @@
-
 ##nvd3.js License
 
 Copyright (c) 2011, 2012 [Novus Partners, Inc.][novus]
